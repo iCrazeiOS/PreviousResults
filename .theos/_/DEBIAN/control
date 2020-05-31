@@ -1,0 +1,10 @@
+Package: com.icrazeandtyler.previousresults
+Name: PreviousResults
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Keep track of your older results in the Calculator app!
+Maintainer: iCraze & TylerD3V
+Author: iCraze & TylerD3V
+Section: Tweaks
+Version: 1.0
+Installed-Size: 268
